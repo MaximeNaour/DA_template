@@ -34,11 +34,11 @@ Template used for my data analysis projects. This repository provides a structur
 1. **Clone the template**
 
    ```bash
-   git clone https://github.com/<your-username>/data-analysis-template.git
-   cd data-analysis-template
+   git clone https://github.com/MaximeNaour/DA_template.git
+   cd DA_template
    ```
 
-2. **Populate your data**
+2. **Import your data**
 
    * Drop raw data files into `data/`.
    * Update any database connection details in `db/`.
